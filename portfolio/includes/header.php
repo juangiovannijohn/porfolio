@@ -4,15 +4,8 @@
   <meta charset="utf-8">
   <title>Portfolio</title>
   <base href="/">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
-  <!-- Bootstrap 5 
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
-  -->
-  <!-- icons 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
-  <link rel="stylesheet" href="/PROYECTOS_dev/PortfolioAMP/css/styles.css">
-  -->
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
